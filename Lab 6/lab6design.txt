@@ -1,0 +1,12 @@
+-First, I started to create the vending machine class in order to outline how my program will be.
+-I knew I need to have four different functions in the class file because I need a function for the user to deposit a coin, deposit a bill, dispense the candy and generate the overall report.
+-I started to create the prototypes of the function in the vending machine class and knew all the four functions needed to have a parameter. 
+-The coin function has a parameter for the coin value the user types in and this function takes in the number the user typed and stores it.
+-The bill function has a parameter for the bill value the user types in and does what the coin function is doing except the bill function can only take $1 or $5.
+-The dispense function has a parameter called candy, which is which candy the user wants, beans or frogs.
+-The report function takes in a string, which is the password the user has to type in to access the report, and prints out the overall report of the vending machine.
+-Also I needed four different variables in the private section of the class because all the functions need to have access to the variables.
+-The four variables are the number of frogs sold, the number of beans sold, the total profit made from the vending machine and the total amount of money the user deposited in the vending machine.
+-Lastly, in the class file, I needed a constructor in order to initialize all of the private variables.
+-After creating the class, this is where I started to code all the classes and the main function. I used the class file in order to outline my program and to help me where to start for the lab assignment.
+-By knowing what functions I needed for the program, I was able to go through the program and code each class and the main function.
